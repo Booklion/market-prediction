@@ -1,0 +1,23 @@
+Market Prediction Application
+
+Market Predictor App
+
+Description:
+A simple Python application for predicting market fluctuations using a basic linear regression model. 
+The application is organized into a package structure with modules for data generation and prediction. 
+It includes a sample dataset (dataset.csv) representing synthetic market prices for the year 2023.
+
+Directory Structure:
+- market_predictor/
+  - __init__.py
+  - data_generator.py
+  - predictor.py
+- main_script.py
+- dataset.csv
+
+Usage:
+1. Run main_script.py to perform market prediction using the provided dataset.
+2. Explore and extend the functionality of the data_generator and predictor modules as needed.
+
+Note: This is a basic educational example, and real-world market prediction applications would require more sophisticated models and extensive data analysis.
+
